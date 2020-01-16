@@ -1,0 +1,2 @@
+# NASA-project-on-LST-
+The purpose off this project is o investigate the potential of using passive microwave brightness temperature and emissivity data sets from satellite observationsto monitor recent land cover/land use changes and droughts. Temperature and emissivity data at differentvarious frequencies will be formulated to calculate global land surface emissivityfor the last three dacades.The estimates are then compared against the independent drought indicators which are based on percipitation and soil moisture data records. 
