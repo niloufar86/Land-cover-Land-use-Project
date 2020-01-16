@@ -1,2 +1,2 @@
-# Analaysis of Drought and Land-Cover/Land-Use change using satellite microwave data (A NASA funded Project)
+# Analaysis of Drought and Land-Cover/Land-Use change using satellite microwave data (A NASA-funded Project)
 The purpose of this project is to investigate the potential of using passive microwave brightness temperature and emissivity data sets from satellite observations to monitor recent land cover/land use changes and droughts. Temperature and emissivity data at various frequencies will be formulated to calculate global land surface emissivity for the last three decades. The estimates are then compared against the independent drought indicators, which are based on precipitation and soil moisture data records.
